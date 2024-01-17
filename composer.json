@@ -14,6 +14,7 @@
     "infyomlabs/adminlte-templates": "^6.0",
     "infyomlabs/generator-builder": "^1.0",
     "infyomlabs/laravel-generator": "^6.0",
+    "doctrine/dbal": "^3.5",
     "laravel/framework": "^10.10",
     "laravel/sanctum": "^3.3",
     "laravel/tinker": "^2.8",
